@@ -35,6 +35,8 @@ This plan is designed for **30 days** of instructor-led or self-paced learning. 
 2. Write definitions for DevOps, CI, CD, and IaC.
 3. Draw a lifecycle flow diagram in Markdown (ASCII ok).
 
+**Reference:** `AzureDevOps/README.md`, `Git/README.md`, `GitHub/README.md`, `AzureInfra/README.md`, `LinuxAdmin/README.md`, `DevTools/README.md`
+
 ---
 
 ## Day 2 — Git Basics I (Priority Basics)

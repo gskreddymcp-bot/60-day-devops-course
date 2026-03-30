@@ -41,7 +41,9 @@ azure-devops-course/
 3. Complete first labs:
    - [`labs/01-git-basics/README.md`](labs/01-git-basics/README.md)
    - [`labs/04-first-pipeline/README.md`](labs/04-first-pipeline/README.md)
-4. Review diagram prompts: [`diagrams/azure-devops-diagram-prompts.md`](diagrams/azure-devops-diagram-prompts.md)
+4. Review day-by-day practical plan: [`azure-devops-training-30-day.md`](azure-devops-training-30-day.md)
+5. Review diagram prompts: [`diagrams/azure-devops-diagram-prompts.md`](diagrams/azure-devops-diagram-prompts.md)
+
 
 ## Source of Truth
 

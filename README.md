@@ -44,6 +44,7 @@ azure-devops-course/
 4. Review day-by-day practical plan: [`azure-devops-training-30-day.md`](azure-devops-training-30-day.md)
 5. Review diagram prompts: [`diagrams/azure-devops-diagram-prompts.md`](diagrams/azure-devops-diagram-prompts.md)
 
+
 ## Source of Truth
 
 Use **Microsoft Learn Azure DevOps documentation** as primary reference for service behavior and updates:

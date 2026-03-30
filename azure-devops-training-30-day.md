@@ -1,6 +1,9 @@
 # Azure DevOps 30-Day Training Plan (Day-wise Tasks + Step-by-Step Labs)
 
 This plan is designed for **30 days** of instructor-led or self-paced learning. Each day includes:
+> **Updated course flow (use this instead of generic SDLC wallpaper):**
+> Request/Requirement -> Azure Boards -> Azure Repos -> PR Validation -> CI Build/Test/Scan -> Artifact/Image Publish -> Infra Provisioning -> App Deployment -> Verification -> Monitoring -> Feedback to backlog
+
 - **Priority basics** (concepts first, then tooling)
 - **Clear step-by-step tasks**
 - **Practice labs** in the same repo and in Azure
@@ -14,7 +17,7 @@ This plan is designed for **30 days** of instructor-led or self-paced learning. 
 
 **Learn**
 1. What is DevOps? Culture, CALMS, CI/CD, DevSecOps.
-2. Lifecycle stages: Plan → Code → Build → Test → Release → Deploy → Operate → Monitor.
+2. Engineering delivery flow: Request/Requirement -> Boards -> Repos -> PR -> CI -> Artifact/Image -> Infra -> Deploy -> Verify -> Monitor -> Feedback.
 3. Tooling overview: Azure DevOps, Git/GitHub, Azure, Linux, Dev tools.
 
 **Practice (Steps)**
